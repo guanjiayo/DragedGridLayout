@@ -17,12 +17,6 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".BBActivity">
-        </activity>
-
-        <activity android:name=".DDActivity">
-        </activity>
-
     </application>
 
 </manifest>

@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gridlayout/gridlayout.iml" filepath="$PROJECT_DIR$/gridlayout/gridlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridlayout/gridlayout.iml" filepath="$PROJECT_DIR$/gridlayout/gridlayout.iml" />
     </modules>
   </component>
