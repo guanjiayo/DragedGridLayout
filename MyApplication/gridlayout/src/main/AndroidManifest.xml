@@ -16,11 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-<<<<<<< HEAD
+
         <activity android:name=".BBActivity">
         </activity>
-=======
->>>>>>> cf36fd233e5bc12270ec09ec4921026388f3d64d
+
+        <activity android:name=".DDActivity">
+        </activity>
+
     </application>
 
 </manifest>
